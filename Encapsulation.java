@@ -78,5 +78,7 @@ public class Encapsulation{
 		System.out.println("Deparment      : "+student.getDept());
 		System.out.println("Student Age    : "+student.getAge());
 		System.out.println("Aadhar Number  : "+student.getAadhar());
+
+		sc.close();
 	}
 }
